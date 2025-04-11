@@ -14,6 +14,5 @@
 | 미니 프로젝트 | 모터 제어, 센서 활용 테스트 모음 | [바로가기](./Mini-Projects) |
 
 ## 📞 Contact
-- Email : qwqwqw4756@ssu.ac.kr
-- Blog : [개발 블로그](https://example.com)
-- GitHub : https://github.com/your-github-id
+- Email : chhowm@naver.com
+- Notion : https://www.notion.so/AI-S-W-6-1a19a0a229ee80b4b7d8efbb7868e537
