@@ -1,13 +1,10 @@
 # Embedded Software Portfolio 👨‍💻
 
-임베디드 소프트웨어 개발자를 꿈꾸는 박현규의 포트폴리오입니다.
-
+임베디드 소프트웨어 개발자를 꿈꾸는 황치영입니다.
 ## 🔧 Skills
 - Language : C, C++, Python
-- MCU : STM32, Arduino, ESP8266
-- Tools : STM32CubeIDE, PlatformIO, CubeMX
-- Communication : UART, I2C, SPI, WiFi (ESP8266)
-- Peripheral : Step Motor, Servo Motor, Relay, RFID Reader, Sensor
+- Tools : STM32CubeIDE, VS Code, MobaXterm, Putty
+
 
 ## 📂 Projects
 | 프로젝트 | 설명 | 링크 |
