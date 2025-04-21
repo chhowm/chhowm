@@ -2,13 +2,17 @@
 
 임베디드 소프트웨어 개발자를 꿈꾸는 황치영입니다.
 
-## 🔧 Skills
-- Languages: 
-  ![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) 
-  ![C++](https://upload.wikimedia.org/wikipedia/commons/c/cf/C++_Logo.svg) 
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-  
-- Tools: STM32CubeIDE, VS Code, MobaXterm, Putty
+## 🔧 Tech Stack
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### ⚙️ Library/Frameworks
+![STM32](https://img.shields.io/badge/STM32-0076D6?style=flat&logo=STMicroelectronics&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-1E90FF?style=flat&logo=MobaXterm&logoColor=white)
 
 ## 📂 Projects
 | 프로젝트 | 설명 | 링크 |
