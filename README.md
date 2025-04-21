@@ -1,10 +1,14 @@
 # Embedded Software Portfolio 👨‍💻
 
 임베디드 소프트웨어 개발자를 꿈꾸는 황치영입니다.
-## 🔧 Skills
-- Language : C, C++, Python
-- Tools : STM32CubeIDE, VS Code, MobaXterm, Putty
 
+## 🔧 Skills
+- Languages: 
+  ![C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) 
+  ![C++](https://upload.wikimedia.org/wikipedia/commons/c/cf/C++_Logo.svg) 
+  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+  
+- Tools: STM32CubeIDE, VS Code, MobaXterm, Putty
 
 ## 📂 Projects
 | 프로젝트 | 설명 | 링크 |
@@ -15,4 +19,4 @@
 
 ## 📞 Contact
 - Email : chhowm@naver.com
-- Notion : https://www.notion.so/AI-S-W-6-1a19a0a229ee80b4b7d8efbb7868e537
+- Notion : [AI-S/W](https://www.notion.so/AI-S-W-6-1a19a0a229ee80b4b7d8efbb7868e537)
