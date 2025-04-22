@@ -33,7 +33,7 @@
 
 
 
-🔗 [자세히 보기](./edge_elevator)
+🔗 [자세히 보기](https://github.com/chhowm/edge_elevator.git)
 
 ### 📌 IoT 스마트홈 시스템
 
