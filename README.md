@@ -20,7 +20,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 주요 프로젝트
 
 ### 🛗 Carelift
 
@@ -64,8 +64,9 @@
 
 🔗 [자세히 보기](https://github.com/chhowm/edge_smarthome.git)
 
----
+### 🧩 기타 프로젝트
 
+---
 ## 📞 Contact
 
 - 📧 Email: chhowm@naver.com  
