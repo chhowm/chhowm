@@ -22,7 +22,7 @@
 
 ## 📂 주요 프로젝트
 
-### 🛗 Carelift
+### [🛗 Carelift](https://github.com/chhowm/edge_carelift)
 
 > **🚀 Summary**  
 > 교통약자가 우선적으로 탑승할 수 있도록 설계된 **엘리베이터 제어 시스템**
@@ -34,9 +34,7 @@
 > **📦 사용 기술**  
 > `C` · `STM32CubeIDE` · `Arduino` · `PWM` · `UART` · `MariaDB` · `RFID`
 
-🔗 [자세히 보기](https://github.com/chhowm/edge_carelift)
-
-### 🚗 SmartSurround
+### [🚗 SmartSurround](https://github.com/chhowm/edge_SmartSurround)
 
 > **🚨 Summary**  
 > 운전 중 졸음, 과속 등의 위험 운전 행태를 감지하여 사용자에게 **실시간 알림**을 제공하는 시스템
@@ -48,9 +46,7 @@
 >  **📦 사용 기술**  
 > `CAN` · `SPI` . `STM32` · `C` 
 
-🔗 [자세히 보기](https://github.com/chhowm/edge_SmartSurround)
-
-### 🏠 IoT 스마트홈 시스템
+### [🏠 IoT 스마트홈 시스템](https://github.com/chhowm/edge_smarthome.git)
 
 > 🏠 Summary  
 > 센서 데이터를 기반으로 릴레이를 제어하고, 앱과 연동하여 실시간 제어 가능한 스마트홈 시스템
@@ -61,8 +57,6 @@
 
 >  **📦 사용 기술**  
 > `MCU` · `Bluetooth & WiFi` · `TCP` · `C`
-
-🔗 [자세히 보기](https://github.com/chhowm/edge_smarthome.git)
 
 ---
 
